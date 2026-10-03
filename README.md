@@ -20,7 +20,8 @@
 
 ## 관련 저장소
 
-- [ssafy-vlm-vqa-pipeline](https://github.com/Jkim1647/ssafy-vlm-vqa-pipeline) — SSAFY 1차 AI 챌린지 파이프라인
+- [ssafy16-ai-challenge-1](https://github.com/Jkim1647/ssafy16-ai-challenge-1) — SSAFY 16기 AI 챌린지 1차 · 재활용품 VQA (954명 중 18위)
+- [ssafy16-ai-challenge-2](https://github.com/Jkim1647/ssafy16-ai-challenge-2) — SSAFY 16기 AI 챌린지 2차 · 사진 속 글자 읽기 VQA (217팀 중 2위)
 - [dev-quest](https://github.com/Jkim1647/dev-quest) — DEV QUEST 제작 문서
 - [sc-teamproject/Frontend](https://github.com/sc-teamproject/Frontend) — LocalHub 프론트엔드
 - [industrial-electronics-skills-competition](https://github.com/Jkim1647/industrial-electronics-skills-competition) — 기능경기대회(공업전자기기) 회로·임베디드 C 자료

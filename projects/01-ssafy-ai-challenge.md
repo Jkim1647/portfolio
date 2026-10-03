@@ -2,7 +2,7 @@
 
 > SSAFY 16기 · 2차 2026.09.21 – 09.28 · 1차 2026.08.28 – 08.31 · 5인 팀
 > 역할: 실험 설계 · 채점표 · 학습 · 앙상블 · 제출 · 팀 저장소 커밋 약 452건 중 약 354건(78%)
-> 1차 공개 저장소: [ssafy-vlm-vqa-pipeline](https://github.com/Jkim1647/ssafy-vlm-vqa-pipeline) · 2차 저장소는 Private 결과(10/02) 공개 후 공개본 정리 예정
+> 공개 저장소: 1차 [ssafy16-ai-challenge-1](https://github.com/Jkim1647/ssafy16-ai-challenge-1) · 2차 [ssafy16-ai-challenge-2](https://github.com/Jkim1647/ssafy16-ai-challenge-2)
 
 ## 결과
 
