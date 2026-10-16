@@ -30,7 +30,8 @@
 - [ssafy16-ai-challenge-2](https://github.com/Jkim1647/ssafy16-ai-challenge-2) — SSAFY 16기 AI 챌린지 2차 · 사진 속 글자 읽기 VQA (217팀 중 2위)
 - [sarang-retreat-refactor-notes](https://github.com/Jkim1647/sarang-retreat-refactor-notes) — 수양회 시스템 2026 리팩토링 기록 (코드 비공개, 문서 · 측정값 · 트러블슈팅)
 - [sarang-univ-admin](https://github.com/Jkim1647/sarang-univ-admin) — 수양회 관리자 웹 스냅샷 (백엔드는 단체 비공개 저장소)
-- [DEV QUEST 사이트](https://wv1787202495138203.zaemit.ai/) — 제작 문서 저장소는 비공개
+- [dev-quest](https://github.com/Jkim1647/dev-quest) — DEV QUEST 제작 문서 · [사이트](https://wv1787202495138203.zaemit.ai/)
+- [SSAFY-16th-Semester-1-Comprehensive-Project](https://github.com/Jkim1647/SSAFY-16th-Semester-1-Comprehensive-Project) — SSAFY 1학기 관통 프로젝트 (Java Swing → RAG 챗봇 → 공공 API 웹 → 알고리즘 9종 + Spring Boot)
 - [sc-teamproject/Frontend](https://github.com/sc-teamproject/Frontend) — LocalHub 프론트엔드
 - [industrial-electronics-skills-competition](https://github.com/Jkim1647/industrial-electronics-skills-competition) — 기능경기대회(공업전자기기) 회로·임베디드 C 자료
 - [Algorithm](https://github.com/Jkim1647/Algorithm) — SWEA · 프로그래머스 풀이
