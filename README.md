@@ -12,8 +12,11 @@
 
 ## 프로젝트 (최신순)
 
+번호는 PDF의 상세 문서 순서를 따릅니다. 07은 PDF 이후에 추가된 문서입니다.
+
 | # | 프로젝트 | 기간 | 역할 | 핵심 |
 |---|---|---|---|---|
+| 07 | [사랑의교회 수양회 시스템 2026 리팩토링](projects/07-sarang-retreat-refactor.md) | 2026.10 | 1인 · Claude Code 페어 | 라벨 생성 29.9s → 9.9s · 폼 리렌더 882 → 14 · 실제 DB 검증으로 버그 12건 |
 | 01 | [SSAFY AI 챌린지 — 사진 속 글자 읽기 VQA](projects/01-ssafy-ai-challenge.md) | 2026.08–09 | 5인 팀 · 실험 설계 · 앙상블 | 최종 2위 / 217팀 (Private 0.98093) · 입력 설계로 +2.1%p |
 | 02 | [DEV QUEST — 개발 성장 기록 사이트](projects/02-dev-quest.md) `VIBE CODING` | 2026.08 | 1인 | 재밋특별상 · Codex + ChatGPT(MCP) 분업 |
 | 03 | [LocalHub — 광주·전라 맛집 커뮤니티](projects/03-localhub.md) | 2026.07 | 3인 팀장 | 3일 만에 기획~배포 · 맛집 416곳 |
@@ -25,7 +28,9 @@
 
 - [ssafy16-ai-challenge-1](https://github.com/Jkim1647/ssafy16-ai-challenge-1) — SSAFY 16기 AI 챌린지 1차 · 재활용품 VQA (954명 중 18위)
 - [ssafy16-ai-challenge-2](https://github.com/Jkim1647/ssafy16-ai-challenge-2) — SSAFY 16기 AI 챌린지 2차 · 사진 속 글자 읽기 VQA (217팀 중 2위)
-- [dev-quest](https://github.com/Jkim1647/dev-quest) — DEV QUEST 제작 문서
+- [sarang-retreat-refactor-notes](https://github.com/Jkim1647/sarang-retreat-refactor-notes) — 수양회 시스템 2026 리팩토링 기록 (코드 비공개, 문서 · 측정값 · 트러블슈팅)
+- [sarang-univ-admin](https://github.com/Jkim1647/sarang-univ-admin) — 수양회 관리자 웹 스냅샷 (백엔드는 단체 비공개 저장소)
+- [DEV QUEST 사이트](https://wv1787202495138203.zaemit.ai/) — 제작 문서 저장소는 비공개
 - [sc-teamproject/Frontend](https://github.com/sc-teamproject/Frontend) — LocalHub 프론트엔드
 - [industrial-electronics-skills-competition](https://github.com/Jkim1647/industrial-electronics-skills-competition) — 기능경기대회(공업전자기기) 회로·임베디드 C 자료
 - [Algorithm](https://github.com/Jkim1647/Algorithm) — SWEA · 프로그래머스 풀이
