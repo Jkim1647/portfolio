@@ -12,7 +12,7 @@
 |---|---|
 | 범위 | 서버(Express · Knex) · 관리자 웹(Next.js 14 · SWR · TanStack Table) · 참가자 웹(Next.js 14 · React Hook Form · React Query) |
 | 규모 | 커밋 64건 (서버 32 · 관리자 20 · 참가자 12) · +13.1k / −14.4k 줄 (관리자는 2.4k 줄 순감) |
-| 테스트 | 서버 Jest 44 · 관리자 Jest 35 · 참가자 Vitest 95 · mock E2E 172 · **실제 DB E2E 4** |
+| 테스트 | 서버 Jest 44 · 관리자 Jest 34 · 참가자 Vitest 95 · mock E2E 172 · **실제 DB E2E 4** |
 | 스택 | TypeScript · Express · Knex · PostgreSQL · Puppeteer · Next.js · SWR · React Query · Playwright · Jest/Vitest |
 
 ## 결과 (측정값)

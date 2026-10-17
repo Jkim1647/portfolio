@@ -9,7 +9,7 @@
 | 2018 서울지방기능경기대회 | 우수상 (2018.04) |
 
 - 3학년 공업전자기기 기능반 동아리장 — 9명 · 250시간 운영
-- 전국대회 직전 약 7주간(2019.08.15–10.04) OrCAD 회로설계 · PCB 레이아웃 연습 39세션
+- 전국대회 직전 약 7주간(2019.08.15–10.04) OrCAD 회로설계 · PCB 레이아웃 연습 기록 36회분
 - 자료 저장소: [industrial-electronics-skills-competition](https://github.com/Jkim1647/industrial-electronics-skills-competition)
 
 ### 제54회 전국대회 — 4개 과제를 모두 수행
