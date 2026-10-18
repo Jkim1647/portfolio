@@ -1,6 +1,6 @@
 # 02 · DEV QUEST — 개발 성장 기록 사이트 `VIBE CODING`
 
-> 재밋 MCP 웹사이트 챌린지 · **재밋특별상** (2026-09-29 발표) · 전국 공개 공모전 · 1인 출품
+> 재밋(Zaemit) MCP 웹사이트 챌린지 (링커리어 공고명 「내 AI와 만드는 디자인 웹사이트 공모전」, 주최 위븐) · **재밋특별상** (2026-09-29 발표) · 전국 공개 공모전 · 1인 출품
 > 제작 2026.08.20 – 08.21 · 사이트: https://wv1787202495138203.zaemit.ai/ · 저장소: [Jkim1647/dev-quest](https://github.com/Jkim1647/dev-quest)
 
 ![DEV QUEST](../assets/devquest_hero.jpg)
